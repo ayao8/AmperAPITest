@@ -1,4 +1,4 @@
-#Amper API Test App
+# Amper API Test App
 
 Simple React Native App to test Amper Music (AI music composition startup) API: https://docs.ampermusic.com/jimmy/
 
